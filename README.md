@@ -1,3 +1,3 @@
 # CP322
 
-##Machine Learning Course Material 
+### Machine Learning Course Material 
